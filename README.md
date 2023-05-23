@@ -1,6 +1,6 @@
 # ExtFileGen
 
-##about
+## About
 creating the files needed to build a sensational browser extension. Designed with simplicity and efficiency in mind, ExtFileGen takes the hassle out of file generation, allowing you to focus on unleashing your creativity.
 
 With ExtFileGen, gone are the days of manually creating boilerplate code and wrestling with complex file structures. This powerful npm package empowers developers to quickly generate all the essential files required to kickstart their browser extension projects.
