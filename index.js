@@ -36,7 +36,7 @@ program
     },
     "content_scripts":[
         {
-            "matches": ["*"],
+            "matches": ["<all_urls>"],
             "js": ["script.js"]
         }
     ]
