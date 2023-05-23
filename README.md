@@ -14,3 +14,9 @@ ExtFileGen doesn't stop at file generation; it also equips you with the tools to
 With ExtFileGen, maintenance and updates become a breeze. As your extension evolves, simply rerun ExtFileGen, and it intelligently updates the existing files while preserving your customizations. Say goodbye to manual file management and enjoy seamless, hassle-free maintenance throughout your extension's lifecycle.
 
 Are you ready to simplify your browser extension development process? Get started with ExtFileGen today and unlock a world of convenience, speed, and creativity. Say hello to streamlined file generation and unleash your imagination as you build exceptional browser extensions with ease.
+
+## How to use?
+You can set it up by running this code line in the terminal then filing out all the required inputs.
+```
+npx ExtFileGen@latest generate
+```
